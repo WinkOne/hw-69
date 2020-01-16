@@ -1,0 +1,8 @@
+.dishesMenu{
+    border: 3px solid black;
+    width: 45%;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 35px;
+}
